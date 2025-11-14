@@ -81,3 +81,5 @@ Author: AaltonenJari <jaritapani.aaltonen@gmail.com>
 Date:   Thu Nov 13 14:28:07 2025 +0200
 
     tiedosto.txt luotu
+
+Lisätään loppuun hieman omaa tekstiä.

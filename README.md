@@ -13,3 +13,9 @@ Tehtiin myös tiedosto [gitlog.txt](https://github.com/AaltonenJari/ot-harjoitus
 
 ## Lisää harjoittelua
 Lisätään tämä kappale paikallisessa repossa ja commitoidaan. Viedään se myös remoteen.
+
+## Paikallisen ja etärepositorion epäsynkrooni
+Lisätään tämä kappale paikallisessa repossa. Ei viedä sitä remoteen aluksi. 
+Remotessa editoidaan hieman tiedostoa gitlog.txt. Ei kuitenkaan tätä tiedostoa, koska ei haluta merge conflictia.
+Koetetaan viedä sitten nämä muutokset remoteen.
+Tulee virheilmoitus. Korjaamme tilanteen, jonka jälkeen paikallinen ja etärepositorio ovat taas synkroonissa.

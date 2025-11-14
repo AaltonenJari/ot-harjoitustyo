@@ -1,0 +1,83 @@
+commit 2e6da3cd0ed756ab789a08bdfb9970ed9c565bb2
+Author: AaltonenJari <jaritapani.aaltonen@gmail.com>
+Date:   Fri Nov 14 10:13:24 2025 +0200
+
+    Lisää muutoksia tiedostoihin eka.txt ja kolmas.txt
+
+commit e0840c572f4d6bae905e2f5cfb797b74d7c6e4f2
+Author: AaltonenJari <jaritapani.aaltonen@gmail.com>
+Date:   Fri Nov 14 10:07:03 2025 +0200
+
+    Tiedoston nimi tiedosto.txt muutettu uudestaan nimeksi eka.txt
+
+commit e83d12fb97d1889564d46d76968b056fd926ad55
+Author: AaltonenJari <jaritapani.aaltonen@gmail.com>
+Date:   Fri Nov 14 10:03:15 2025 +0200
+
+    Osa tiedoston tekstistä poistettu ja lisätty tiedostoon hieman lisää tekstiä
+
+commit f34bd48f582dbf5ae048ac812aac23a5a9f1341f
+Author: AaltonenJari <jaritapani.aaltonen@gmail.com>
+Date:   Fri Nov 14 10:00:05 2025 +0200
+
+    tiedostoon tiedosto.txt paljon tekstiä
+
+commit 5457e93a7f7e7f0f5084ae943bcfe2a9c013dc1a
+Author: AaltonenJari <jaritapani.aaltonen@gmail.com>
+Date:   Fri Nov 14 09:58:03 2025 +0200
+
+    eka.txt takaisin tiedostoksi tiedosto1.txt
+
+commit e43a24eec6f80c89533a76c31767e66760c67d7b
+Author: AaltonenJari <jaritapani.aaltonen@gmail.com>
+Date:   Thu Nov 13 15:12:56 2025 +0200
+
+    Poista tiedosto file1 ja tiedosto file2 nimetty uudelleen tiedostoksi file22
+
+commit 759cfb864481baa09c939ef051b487494d3c7f96
+Author: AaltonenJari <jaritapani.aaltonen@gmail.com>
+Date:   Thu Nov 13 15:06:56 2025 +0200
+
+    Uusi hakemisto tiedostoja ja sen sisälle tiedostot file1, file2 ja file3
+
+commit dd3b17090c3ec1daf2bf3d255b7a5dd1ab2478b1
+Author: AaltonenJari <jaritapani.aaltonen@gmail.com>
+Date:   Thu Nov 13 14:51:48 2025 +0200
+
+    muutettu tiedoston tiedosto.txt nimeksi eka.txt
+
+commit 5f93ec38a2415fa1598328f44fad78623202dc92
+Author: AaltonenJari <jaritapani.aaltonen@gmail.com>
+Date:   Thu Nov 13 14:50:00 2025 +0200
+
+    poistettu tiedosto toinen.txt
+
+commit 06217b333240e2e39c6e12c149f551395d3f65b3
+Author: AaltonenJari <jaritapani.aaltonen@gmail.com>
+Date:   Thu Nov 13 14:40:58 2025 +0200
+
+    Uusi hakemisto stuff luotu ja sen sisälle jokin tiedosto
+
+commit e48cf955af9bccb7e33780cc371f77f6243a2eda
+Author: AaltonenJari <jaritapani.aaltonen@gmail.com>
+Date:   Thu Nov 13 14:38:31 2025 +0200
+
+    Tiedostojen toinen.txt ja kolmas.txt sisältöä muutettu
+
+commit 042abff72f5aacdd9ee6fd4e06e1d460d48207b5
+Author: AaltonenJari <jaritapani.aaltonen@gmail.com>
+Date:   Thu Nov 13 14:35:51 2025 +0200
+
+    kolmas.txt luotu
+
+commit 09218b92bd7bd65245722214e6936066209d1f73
+Author: AaltonenJari <jaritapani.aaltonen@gmail.com>
+Date:   Thu Nov 13 14:30:45 2025 +0200
+
+    muutos ja lisäys
+
+commit 9dbe3881592a476ac51cb1bbe878e3fd1364f848
+Author: AaltonenJari <jaritapani.aaltonen@gmail.com>
+Date:   Thu Nov 13 14:28:07 2025 +0200
+
+    tiedosto.txt luotu

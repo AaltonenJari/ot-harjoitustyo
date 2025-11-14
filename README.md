@@ -11,3 +11,5 @@ Katsotaan miten muutokset näkyvät siellä. Paikalliselle koneelle asennettiin 
 Tehtiin tiedosto [komentorivi.txt](https://github.com/AaltonenJari/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt) ja kopioitiin sinne komennon tree tulos.
 Tehtiin myös tiedosto [gitlog.txt](https://github.com/AaltonenJari/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt) ja kopioitiin sinne Git-harjoittelun tulos.
 
+## Lisää harjoittelua
+Lisätään tämä kappale paikallisessa repossa ja commitoidaan. Viedään se myös remoteen.
